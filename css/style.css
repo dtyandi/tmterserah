@@ -6,7 +6,7 @@ img{
 	margin-right: auto;
 }
 h1{
-	margin-top: 40px;
+	margin-top: 10px;
 	text-align: center;
 	font-size: 3em;
 	font-family: stencil;
@@ -19,7 +19,7 @@ h1, h2, h3{
 
 }
 h2, h3{
-	font-size: 2em;
+	font-size: 3em;
 	font-family: calibri;
 }
 ul{
@@ -35,6 +35,10 @@ li{
 	margin-left: 20px;
 	margin-right: 20px;
 }
-
-
+#waic{
+	width: 24px;
+	height: 24px;
+	display: inline-block;
+	margin-right: 5px;
+}
 
